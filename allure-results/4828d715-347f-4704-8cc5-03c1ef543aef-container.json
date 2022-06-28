@@ -1,0 +1,23 @@
+{
+  "uuid": "4828d715-347f-4704-8cc5-03c1ef543aef",
+  "name": "com.api.tests.TestGETCustomers",
+  "children": [
+    "81824287-ce1b-4f6d-a1e4-ad02d3c0805b"
+  ],
+  "befores": [
+    {
+      "name": "init",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1653705094697,
+      "stop": 1653705095340
+    }
+  ],
+  "afters": [],
+  "start": 1653705094665,
+  "stop": 1653705097452
+}

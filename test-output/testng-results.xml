@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2579" started-at="2022-06-27T21:56:33 EDT" finished-at="2022-06-27T21:56:35 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2579" started-at="2022-06-27T21:56:33 EDT" finished-at="2022-06-27T21:56:35 EDT">
+      <class name="com.api.testsCustomers.TestGETCustomers">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.api.testsCustomers.TestGETCustomers@35047d03]" name="init" is-config="true" duration-ms="948" started-at="2022-06-27T21:56:33 EDT" finished-at="2022-06-27T21:56:34 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="testAllCustomers()[pri:0, instance:com.api.testsCustomers.TestGETCustomers@35047d03]" name="testAllCustomers" duration-ms="1542" started-at="2022-06-27T21:56:34 EDT" finished-at="2022-06-27T21:56:35 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAllCustomers -->
+      </class> <!-- com.api.testsCustomers.TestGETCustomers -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

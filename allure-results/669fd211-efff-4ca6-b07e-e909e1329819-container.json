@@ -1,0 +1,12 @@
+{
+  "uuid": "669fd211-efff-4ca6-b07e-e909e1329819",
+  "name": "com.api.tests.TestGETCustomers",
+  "children": [
+    "73344490-7ce4-4108-97bc-ea5ed41b719e",
+    "06dd7b72-a57e-4728-8982-6208ae9ab097"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1653578440460,
+  "stop": 1653578440686
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "fd79dfcb-5f45-490e-98f2-061264167afb",
+  "name": "com.api.tests.TestPOSTCustomers",
+  "children": [
+    "d50a97bc-2081-41f2-aa56-659dc4e50e9e"
+  ],
+  "befores": [
+    {
+      "name": "init",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1653718715730,
+      "stop": 1653718716824
+    }
+  ],
+  "afters": [],
+  "start": 1653718715699,
+  "stop": 1653718719337
+}

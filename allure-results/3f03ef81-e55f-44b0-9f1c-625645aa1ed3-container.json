@@ -1,0 +1,1 @@
+{"uuid":"3f03ef81-e55f-44b0-9f1c-625645aa1ed3","name":"com.api.tests.TestPOSTCustomers","children":["bc1ea8e6-896f-4cc6-9869-fcf4f1d39c63"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1655136033863,"stop":1655136033863}],"afters":[],"start":1655136030923,"stop":1655136035292}

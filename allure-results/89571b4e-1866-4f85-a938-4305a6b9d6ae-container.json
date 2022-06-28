@@ -1,0 +1,23 @@
+{
+  "uuid": "89571b4e-1866-4f85-a938-4305a6b9d6ae",
+  "name": "com.api.tests.TestDELETECustomer",
+  "children": [
+    "9ca71c48-ca35-426a-a360-bafae0e134b0"
+  ],
+  "befores": [
+    {
+      "name": "init",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1653716360685,
+      "stop": 1653716360687
+    }
+  ],
+  "afters": [],
+  "start": 1653716357103,
+  "stop": 1653716360797
+}

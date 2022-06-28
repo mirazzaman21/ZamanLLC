@@ -1,0 +1,61 @@
+{
+  "uuid": "57cb2674-85e8-4404-9c89-78cb7855f080",
+  "historyId": "f89cd2585c5a5f7b0aa552922f977711",
+  "fullName": "com.api.tests.TestPOSTCustomers.testPOSTCreateCustomer",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.api.tests.TestPOSTCustomers"
+    },
+    {
+      "name": "testClass",
+      "value": "com.api.tests.TestPOSTCustomers"
+    },
+    {
+      "name": "testMethod",
+      "value": "testPOSTCreateCustomer"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "CRUD"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.api.tests.TestPOSTCustomers"
+    },
+    {
+      "name": "host",
+      "value": "khosruzs-MBP.lan"
+    },
+    {
+      "name": "thread",
+      "value": "67936@khosruzs-MBP.lan.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "testPOSTCreateCustomer",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1653710340763,
+  "stop": 1653710342980
+}

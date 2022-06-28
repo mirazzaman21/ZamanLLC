@@ -1,0 +1,12 @@
+{
+  "uuid": "fcf20ba1-9b32-4714-a1c0-036ac2a29204",
+  "name": "com.api.tests.TestGETCustomers",
+  "children": [
+    "074aa343-ca34-43b9-b5d7-dabc84f4fa51",
+    "7ad9847e-1419-4767-9c5a-a3183923c9d0"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1653578212469,
+  "stop": 1653578212692
+}

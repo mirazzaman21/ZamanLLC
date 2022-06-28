@@ -1,0 +1,23 @@
+{
+  "uuid": "a557aabc-ad5b-41fa-ad7f-4c8ff90c6ac0",
+  "name": "com.api.tests.TestPATCHustomers",
+  "children": [
+    "653f0e22-14af-45d5-a969-d3c9e0261bfc"
+  ],
+  "befores": [
+    {
+      "name": "init",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1653716359527,
+      "stop": 1653716359529
+    }
+  ],
+  "afters": [],
+  "start": 1653716357103,
+  "stop": 1653716360801
+}

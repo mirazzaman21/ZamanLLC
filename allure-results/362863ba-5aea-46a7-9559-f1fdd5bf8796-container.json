@@ -1,0 +1,1 @@
+{"uuid":"362863ba-5aea-46a7-9559-f1fdd5bf8796","name":"com.api.tests.TestDELETECustomer","children":["e4699e85-9785-4741-bb13-4d048e93ee1e"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1655136034983,"stop":1655136034987}],"afters":[],"start":1655136030923,"stop":1655136035288}

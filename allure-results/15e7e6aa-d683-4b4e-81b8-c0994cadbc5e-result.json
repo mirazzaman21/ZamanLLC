@@ -1,0 +1,61 @@
+{
+  "uuid": "15e7e6aa-d683-4b4e-81b8-c0994cadbc5e",
+  "historyId": "a98b18f58327ba19192abb21589c2910",
+  "fullName": "com.api.tests.TestPATCHustomers.testPATCHCustomer",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.api.tests.TestPATCHustomers"
+    },
+    {
+      "name": "testClass",
+      "value": "com.api.tests.TestPATCHustomers"
+    },
+    {
+      "name": "testMethod",
+      "value": "testPATCHCustomer"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "CRUD"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.api.tests.TestPATCHustomers"
+    },
+    {
+      "name": "host",
+      "value": "khosruzs-MBP.lan"
+    },
+    {
+      "name": "thread",
+      "value": "70829@khosruzs-MBP.lan.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "testPATCHCustomer",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1653715424675,
+  "stop": 1653715427108
+}

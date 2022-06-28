@@ -1,0 +1,1 @@
+{"uuid":"ebb54f58-aa66-4609-abf6-ee4e8583f837","name":"com.api.tests.TestPATCHCustomers","children":["0d60c7e1-df58-4576-975c-b4b4d605dd7f"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1653719299286,"stop":1653719299290}],"afters":[],"start":1653719295457,"stop":1653719299585}

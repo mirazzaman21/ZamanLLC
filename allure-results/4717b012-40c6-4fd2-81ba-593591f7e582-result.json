@@ -1,0 +1,61 @@
+{
+  "uuid": "4717b012-40c6-4fd2-81ba-593591f7e582",
+  "historyId": "6e015e37c3750b865cee30eb023896d",
+  "fullName": "com.api.tests.TestDELETECustomer.testDeleteCustomer",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.api.tests.TestDELETECustomer"
+    },
+    {
+      "name": "testClass",
+      "value": "com.api.tests.TestDELETECustomer"
+    },
+    {
+      "name": "testMethod",
+      "value": "testDeleteCustomer"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "CRUD"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.api.tests.TestDELETECustomer"
+    },
+    {
+      "name": "host",
+      "value": "khosruzs-MBP.lan"
+    },
+    {
+      "name": "thread",
+      "value": "71153@khosruzs-MBP.lan.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "testDeleteCustomer",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1653716449856,
+  "stop": 1653716451760
+}

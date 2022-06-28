@@ -1,0 +1,14 @@
+{
+  "uuid": "64296f89-e20f-4f86-aae0-13b8386e1e4c",
+  "name": "Command line test",
+  "children": [
+    "8695a40f-710c-4d8e-9f48-298f133040f2",
+    "653f0e22-14af-45d5-a969-d3c9e0261bfc",
+    "71885320-e8b2-49ad-8791-5d5770e758c1",
+    "9ca71c48-ca35-426a-a360-bafae0e134b0"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1653716357102,
+  "stop": 1653716360786
+}

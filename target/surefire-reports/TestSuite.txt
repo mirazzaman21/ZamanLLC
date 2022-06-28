@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 5.027 sec <<< FAILURE!
+testDeleteCustomer(com.api.tests.TestDELETECustomer)  Time elapsed: 0.081 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertTrue(Assert.java:45)
+	at org.testng.Assert.assertTrue(Assert.java:55)
+	at com.api.helpers.CustomerServiceHelper.deleteCustomer(CustomerServiceHelper.java:118)
+	at com.api.tests.TestDELETECustomer.testDeleteCustomer(TestDELETECustomer.java:19)
+
+testPatchCustomer(com.api.tests.TestPATCHCustomers)  Time elapsed: 0.034 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:99)
+	at org.testng.Assert.failNotEquals(Assert.java:1037)
+	at org.testng.Assert.assertTrue(Assert.java:45)
+	at org.testng.Assert.assertTrue(Assert.java:55)
+	at com.api.helpers.CustomerServiceHelper.updateCustomerWithSingleField(CustomerServiceHelper.java:106)
+	at com.api.tests.TestPATCHCustomers.testPatchCustomer(TestPATCHCustomers.java:20)
+

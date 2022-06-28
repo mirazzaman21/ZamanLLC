@@ -1,0 +1,12 @@
+{
+  "uuid": "fc9d94ac-7bd5-4918-9bdb-af7e10780c79",
+  "name": "Surefire test",
+  "children": [
+    "739de47a-9d70-42f4-9299-0cf3e4ffcafe",
+    "e6822bda-a382-4f62-9553-13fafd65bf39"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1653578367521,
+  "stop": 1653578367739
+}

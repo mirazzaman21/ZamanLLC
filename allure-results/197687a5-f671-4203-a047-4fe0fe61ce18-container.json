@@ -1,0 +1,11 @@
+{
+  "uuid": "197687a5-f671-4203-a047-4fe0fe61ce18",
+  "name": "Command line suite",
+  "children": [
+    "64296f89-e20f-4f86-aae0-13b8386e1e4c"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1653716357098,
+  "stop": 1653716360801
+}

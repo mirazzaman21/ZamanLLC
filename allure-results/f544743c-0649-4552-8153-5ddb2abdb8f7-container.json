@@ -1,0 +1,1 @@
+{"uuid":"f544743c-0649-4552-8153-5ddb2abdb8f7","name":"com.api.testsEmployees.TestGETEmployees","children":["cfdfa8c8-c1a0-4788-8aef-cd4c12b0be88"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1655140358207,"stop":1655140359297}],"afters":[],"start":1655140358173,"stop":1655140360948}

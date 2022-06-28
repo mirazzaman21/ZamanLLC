@@ -1,0 +1,61 @@
+{
+  "uuid": "8695a40f-710c-4d8e-9f48-298f133040f2",
+  "historyId": "c06b5e6d5ae4c51216c0913587d7bfd9",
+  "fullName": "com.api.tests.TestGETCustomers.testAllCustomers",
+  "labels": [
+    {
+      "name": "package",
+      "value": "com.api.tests.TestGETCustomers"
+    },
+    {
+      "name": "testClass",
+      "value": "com.api.tests.TestGETCustomers"
+    },
+    {
+      "name": "testMethod",
+      "value": "testAllCustomers"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Command line suite"
+    },
+    {
+      "name": "suite",
+      "value": "Command line test"
+    },
+    {
+      "name": "subSuite",
+      "value": "com.api.tests.TestGETCustomers"
+    },
+    {
+      "name": "host",
+      "value": "khosruzs-MBP.lan"
+    },
+    {
+      "name": "thread",
+      "value": "71110@khosruzs-MBP.lan.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "testAllCustomers",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1653716358068,
+  "stop": 1653716359484
+}

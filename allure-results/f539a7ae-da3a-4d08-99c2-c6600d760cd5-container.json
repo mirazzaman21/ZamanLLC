@@ -1,0 +1,12 @@
+{
+  "uuid": "f539a7ae-da3a-4d08-99c2-c6600d760cd5",
+  "name": "CRUD",
+  "children": [
+    "8529bc5a-eafa-44d5-842c-207878f7134d",
+    "342be646-7ad5-47b3-8b5b-cc6a33edf94a"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1653545523050,
+  "stop": 1653545523493
+}

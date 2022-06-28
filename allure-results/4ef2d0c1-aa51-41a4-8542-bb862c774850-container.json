@@ -1,0 +1,12 @@
+{
+  "uuid": "4ef2d0c1-aa51-41a4-8542-bb862c774850",
+  "name": "Default suite",
+  "children": [
+    "f82d05da-07ea-4155-a049-549094da0335",
+    "93d6b21d-5633-45b4-97ce-17415caf183a"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1653580432215,
+  "stop": 1653580432520
+}
